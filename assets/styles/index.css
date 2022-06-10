@@ -81,7 +81,6 @@ main {
 }
 
 main {
-    background-image: url('/img/bg-wolf_background.jpg') no-repeat center top;
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
